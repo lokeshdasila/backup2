@@ -1,0 +1,3 @@
+RUNNING FROM CMD
+
+type python.exe  (make sure that the path should be listed in the envirnment variables)

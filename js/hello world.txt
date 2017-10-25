@@ -1,0 +1,4 @@
+		/// TO RUN THE JS FILE USING NODE ////
+
+> open cmd at the location where file is saved
+> type  "node <filename>.js"

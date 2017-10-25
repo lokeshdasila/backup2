@@ -1,0 +1,15 @@
+COMPILE	: g++ -std=c++11 your_file.cpp -o your_program
+
+RUN 	: ./your_program
+
+-----------------------------------------------------------------
+java jdk8 path : I:\java\java development kit 8\jdk\
+
+----------------------------------------------------------------
+ 1196587-TFWwTU2zmis5gNWwdVp0b88Tzreq5HQmoK4AS4WI
+ Mon, 18 Sep 2017, 03:03.30
+
+---------------------------------------------------------------
+FOR FASTER I/O ops in c++ WHEN scanf is NOT required in program
+std::ios::sync_with_stdio(false)
+----------------------------------------------------------------
