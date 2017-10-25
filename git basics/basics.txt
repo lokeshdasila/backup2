@@ -1,0 +1,4 @@
+IMPORTING GITHUB LINKS
+
+  	> https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+	> https://stackoverflow.com/questions/11656761/git-please-tell-me-who-you-are-error
